@@ -1,0 +1,8 @@
+C:\Users\Aditya\source\repos\Sabbertest2\Sabbertest2\bin\Release\Sabbertest2.exe.config
+C:\Users\Aditya\source\repos\Sabbertest2\Sabbertest2\bin\Release\Sabbertest2.exe
+C:\Users\Aditya\source\repos\Sabbertest2\Sabbertest2\bin\Release\Sabbertest2.pdb
+C:\Users\Aditya\source\repos\Sabbertest2\Sabbertest2\bin\Release\SabberStoneCore.dll
+C:\Users\Aditya\source\repos\Sabbertest2\Sabbertest2\obj\Release\Sabbertest2.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\source\repos\Sabbertest2\Sabbertest2\obj\Release\Sabbertest2.exe
+C:\Users\Aditya\source\repos\Sabbertest2\Sabbertest2\obj\Release\Sabbertest2.pdb
+C:\Users\Aditya\source\repos\Sabbertest2\Sabbertest2\obj\Release\Sabbertest2.csprojResolveAssemblyReference.cache
