@@ -1,0 +1,3327 @@
+Starting test setup. v7.6251test: Parallel=Truein parallel 1x and in each parallel, no of tasks:1 and inner parallel:50 and each within inner parallel, inner tasks:1 times, different decks, get winrates and time avg of each and print max depth =13 , max width = 4
+MAGE
+TGT
+Flame Lance
+MAGE
+TGT
+Effigy
+MAGE
+TGT
+Fallen Hero
+MAGE
+TGT
+Arcane Blast
+MAGE
+TGT
+Polymorph: Boar
+MAGE
+TGT
+Dalaran Aspirant
+MAGE
+TGT
+Spellslinger
+MAGE
+TGT
+Rhonin
+HUNTER
+TGT
+Ram Wrangler
+PRIEST
+TGT
+Holy Champion
+PRIEST
+TGT
+Spawn of Shadows
+PRIEST
+TGT
+Power Word: Glory
+PRIEST
+TGT
+Shadowfiend
+PRIEST
+TGT
+Convert
+PRIEST
+TGT
+Confuse
+NEUTRAL
+TGT
+Twilight Guardian
+PRIEST
+TGT
+Confessor Paletress
+WARLOCK
+TGT
+Dreadsteed
+WARLOCK
+TGT
+Fearsome Doomguard
+WARLOCK
+TGT
+Tiny Knight of Evil
+WARLOCK
+TGT
+Void Crusher
+WARLOCK
+TGT
+Demonfuse
+WARLOCK
+TGT
+Dark Bargain
+WARLOCK
+TGT
+Wrathguard
+ROGUE
+TGT
+Shado-Pan Rider
+ROGUE
+TGT
+Undercity Valiant
+ROGUE
+TGT
+Cutpurse
+ROGUE
+TGT
+Shady Dealer
+ROGUE
+TGT
+Burgle
+ROGUE
+TGT
+Beneath the Grounds
+ROGUE
+TGT
+Anub'arak
+DRUID
+TGT
+Living Roots
+DRUID
+TGT
+Darnassus Aspirant
+DRUID
+TGT
+Savage Combatant
+DRUID
+TGT
+Wildwalker
+DRUID
+TGT
+Knight of the Wild
+HUNTER
+OG
+Call of the Wild
+DRUID
+TGT
+Druid of the Saber
+DRUID
+TGT
+Astral Communion
+DRUID
+TGT
+Mulch
+DRUID
+TGT
+Aviana
+SHAMAN
+TGT
+Tuskarr Totemic
+SHAMAN
+TGT
+Draenei Totemcarver
+SHAMAN
+TGT
+Healing Wave
+SHAMAN
+TGT
+Thunder Bluff Valiant
+SHAMAN
+TGT
+Charged Hammer
+SHAMAN
+TGT
+Elemental Destruction
+SHAMAN
+TGT
+Totem Golem
+SHAMAN
+TGT
+Ancestral Knowledge
+SHAMAN
+TGT
+The Mistcaller
+PRIEST
+TGT
+Flash Heal
+HUNTER
+TGT
+Powershot
+HUNTER
+TGT
+Stablemaster
+HUNTER
+TGT
+King's Elekk
+HUNTER
+TGT
+Brave Archer
+HUNTER
+TGT
+Bear Trap
+HUNTER
+TGT
+Lock and Load
+HUNTER
+TGT
+Ball of Spiders
+HUNTER
+TGT
+Acidmaw
+HUNTER
+TGT
+Dreadscale
+WARRIOR
+TGT
+Bash
+WARRIOR
+TGT
+King's Defender
+WARRIOR
+TGT
+Orgrimmar Aspirant
+WARRIOR
+TGT
+Bolster
+WARRIOR
+TGT
+Sparring Partner
+NEUTRAL
+TGT
+Skycap'n Kragg
+WARRIOR
+TGT
+Alexstrasza's Champion
+WARRIOR
+TGT
+Varian Wrynn
+PALADIN
+TGT
+Competitive Spirit
+PALADIN
+TGT
+Seal of Champions
+PALADIN
+TGT
+Warhorse Trainer
+PALADIN
+TGT
+Murloc Knight
+PALADIN
+TGT
+Argent Lance
+PALADIN
+TGT
+Enter the Coliseum
+PALADIN
+TGT
+Eadric the Pure
+NEUTRAL
+TGT
+Lowly Squire
+NEUTRAL
+TGT
+Dragonhawk Rider
+NEUTRAL
+TGT
+Lance Carrier
+NEUTRAL
+TGT
+Maiden of the Lake
+NEUTRAL
+TGT
+Saboteur
+NEUTRAL
+TGT
+Argent Horserider
+NEUTRAL
+TGT
+Mogor's Champion
+NEUTRAL
+TGT
+Boneguard Lieutenant
+NEUTRAL
+TGT
+Mukla's Champion
+NEUTRAL
+TGT
+Tournament Medic
+NEUTRAL
+TGT
+Ice Rager
+NEUTRAL
+TGT
+Frigid Snobold
+NEUTRAL
+TGT
+Flame Juggler
+NEUTRAL
+TGT
+Silent Knight
+NEUTRAL
+TGT
+Clockwork Knight
+NEUTRAL
+TGT
+Tournament Attendee
+NEUTRAL
+TGT
+Sideshow Spelleater
+NEUTRAL
+TGT
+Kodorider
+NEUTRAL
+TGT
+Silver Hand Regent
+NEUTRAL
+TGT
+Pit Fighter
+NEUTRAL
+TGT
+Captured Jormungar
+NEUTRAL
+TGT
+North Sea Kraken
+PALADIN
+TGT
+Tuskarr Jouster
+NEUTRAL
+TGT
+Injured Kvaldir
+NEUTRAL
+TGT
+Light's Champion
+NEUTRAL
+TGT
+Armored Warhorse
+NEUTRAL
+TGT
+Argent Watchman
+NEUTRAL
+TGT
+Coliseum Manager
+NEUTRAL
+TGT
+Refreshment Vendor
+NEUTRAL
+TGT
+Master Jouster
+NEUTRAL
+TGT
+Recruiter
+NEUTRAL
+TGT
+Evil Heckler
+PRIEST
+TGT
+Wyrmrest Agent
+NEUTRAL
+TGT
+Grand Crusader
+NEUTRAL
+TGT
+Kvaldir Raider
+NEUTRAL
+TGT
+Frost Giant
+NEUTRAL
+TGT
+Crowd Favorite
+NEUTRAL
+TGT
+Gormok the Impaler
+NEUTRAL
+TGT
+Chillmaw
+NEUTRAL
+TGT
+Icehowl
+NEUTRAL
+TGT
+Nexus-Champion Saraad
+NEUTRAL
+TGT
+The Skeleton Knight
+NEUTRAL
+TGT
+Fjola Lightbane
+WARRIOR
+TGT
+Sea Reaver
+NEUTRAL
+TGT
+Eydis Darkbane
+NEUTRAL
+TGT
+Justicar Trueheart
+NEUTRAL
+TGT
+Gadgetzan Jouster
+PALADIN
+BRM
+Solemn Vigil
+MAGE
+BRM
+Flamewaker
+MAGE
+BRM
+Dragon's Breath
+PRIEST
+BRM
+Twilight Whelp
+WARLOCK
+BRM
+Demonwrath
+WARLOCK
+BRM
+Imp Gang Boss
+ROGUE
+BRM
+Gang Up
+ROGUE
+BRM
+Dark Iron Skulker
+DRUID
+BRM
+Volcanic Lumberer
+DRUID
+BRM
+Druid of the Flame
+SHAMAN
+BRM
+Lava Shock
+SHAMAN
+BRM
+Fireguard Destroyer
+HUNTER
+BRM
+Quick Shot
+HUNTER
+BRM
+Core Rager
+WARRIOR
+BRM
+Revenge
+WARRIOR
+BRM
+Axe Flinger
+PRIEST
+BRM
+Resurrect
+NEUTRAL
+BRM
+Grim Patron
+NEUTRAL
+BRM
+Dragonkin Sorcerer
+NEUTRAL
+BRM
+Dragon Egg
+NEUTRAL
+BRM
+Drakonid Crusher
+NEUTRAL
+BRM
+Volcanic Drake
+NEUTRAL
+BRM
+Hungry Dragon
+NEUTRAL
+BRM
+Majordomo Executus
+NEUTRAL
+HOF
+Ragnaros the Firelord
+NEUTRAL
+BRM
+Emperor Thaurissan
+NEUTRAL
+BRM
+Rend Blackhand
+NEUTRAL
+BRM
+Nefarian
+NEUTRAL
+BRM
+Chromaggus
+NEUTRAL
+BRM
+Blackwing Technician
+NEUTRAL
+BRM
+Blackwing Corruptor
+NEUTRAL
+EXPERT1
+Baron Geddon
+NEUTRAL
+EXPERT1
+Onyxia
+PRIEST
+GANGS
+Raza the Chained
+MAGE
+GANGS
+Freezing Potion
+NEUTRAL
+GANGS
+Wind-up Burglebot
+HUNTER
+GANGS
+Hidden Cache
+NEUTRAL
+GANGS
+Street Trickster
+NEUTRAL
+GANGS
+Red Mana Wyrm
+SHAMAN
+GANGS
+Jinyu Waterspeaker
+PALADIN
+GANGS
+Grimestreet Protector
+NEUTRAL
+GANGS
+Kooky Chemist
+NEUTRAL
+GANGS
+Blubber Baron
+MAGE
+GANGS
+Volcanic Potion
+MAGE
+GANGS
+Kabal Lackey
+NEUTRAL
+GANGS
+Hozen Healer
+WARLOCK
+GANGS
+Felfire Potion
+NEUTRAL
+GANGS
+Weasel Tunneler
+NEUTRAL
+GANGS
+Mistress of Mixtures
+WARRIOR
+GANGS
+Public Defender
+PALADIN
+GANGS
+Smuggler's Run
+DRUID
+GANGS
+Kun the Forgotten King
+SHAMAN
+GANGS
+Call in the Finishers
+SHAMAN
+GANGS
+Jade Chieftain
+SHAMAN
+GANGS
+Finders Keepers
+HUNTER
+GANGS
+Alleycat
+HUNTER
+GANGS
+Rat Pack
+NEUTRAL
+GANGS
+Grimestreet Informant
+SHAMAN
+GANGS
+White Eyes
+NEUTRAL
+GANGS
+Small-Time Buccaneer
+NEUTRAL
+GANGS
+Fight Promoter
+HUNTER
+GANGS
+Knuckles
+HUNTER
+GANGS
+Smuggler's Crate
+HUNTER
+GANGS
+Dispatch Kodo
+HUNTER
+GANGS
+Shaky Zipgunner
+HUNTER
+GANGS
+Piranha Launcher
+HUNTER
+GANGS
+Trogg Beastrager
+NEUTRAL
+GANGS
+Sergeant Sally
+ROGUE
+GANGS
+Luckydo Buccaneer
+DRUID
+GANGS
+Jade Behemoth
+NEUTRAL
+GANGS
+Finja, the Flying Star
+DRUID
+GANGS
+Jade Idol
+PRIEST
+GANGS
+Potion of Madness
+PRIEST
+GANGS
+Greater Healing Potion
+PRIEST
+GANGS
+Drakonid Operative
+PRIEST
+GANGS
+Mana Geode
+WARLOCK
+GANGS
+Blastcrystal Potion
+NEUTRAL
+GANGS
+Fel Orc Soulfiend
+WARLOCK
+GANGS
+Crystalweaver
+WARLOCK
+GANGS
+Bloodfury Potion
+DRUID
+GANGS
+Mark of the Lotus
+DRUID
+GANGS
+Pilfered Power
+DRUID
+GANGS
+Celestial Dreamer
+NEUTRAL
+GANGS
+Kabal Chemist
+MAGE
+GANGS
+Potion of Polymorph
+NEUTRAL
+GANGS
+Kazakus
+MAGE
+GANGS
+Greater Arcane Missiles
+PRIEST
+GANGS
+Kabal Talonpriest
+ROGUE
+GANGS
+Counterfeit Coin
+WARRIOR
+GANGS
+Brass Knuckles
+ROGUE
+GANGS
+Lotus Assassin
+ROGUE
+GANGS
+Shadow Rager
+NEUTRAL
+GANGS
+Patches the Pirate
+PALADIN
+GANGS
+Grimestreet Enforcer
+WARRIOR
+GANGS
+Hobart Grapplehammer
+NEUTRAL
+GANGS
+Backstreet Leper
+NEUTRAL
+GANGS
+Blowgill Sniper
+NEUTRAL
+GANGS
+Big-Time Racketeer
+NEUTRAL
+GANGS
+Kabal Courier
+PALADIN
+GANGS
+Grimscale Chum
+NEUTRAL
+GANGS
+Naga Corsair
+NEUTRAL
+GANGS
+Second-Rate Bruiser
+NEUTRAL
+GANGS
+Hired Gun
+NEUTRAL
+GANGS
+Friendly Bartender
+NEUTRAL
+GANGS
+Toxic Sewer Ooze
+NEUTRAL
+GANGS
+Streetwise Investigator
+PRIEST
+GANGS
+Kabal Songstealer
+NEUTRAL
+GANGS
+Backroom Bouncer
+NEUTRAL
+GANGS
+Gadgetzan Socialite
+MAGE
+GANGS
+Manic Soulcaster
+PRIEST
+GANGS
+Pint-Size Potion
+PRIEST
+GANGS
+Dragonfire Potion
+WARLOCK
+GANGS
+Kabal Trafficker
+NEUTRAL
+GANGS
+Worgen Greaser
+NEUTRAL
+GANGS
+Grook Fu Master
+NEUTRAL
+GANGS
+Bomb Squad
+NEUTRAL
+GANGS
+Doppelgangster
+NEUTRAL
+GANGS
+Burgly Bully
+MAGE
+GANGS
+Cryomancer
+NEUTRAL
+GANGS
+Madam Goya
+NEUTRAL
+GANGS
+Don Han'Cho
+MAGE
+GANGS
+Inkmaster Solia
+NEUTRAL
+GANGS
+Spiked Hogrider
+ROGUE
+GANGS
+Jade Shuriken
+ROGUE
+GANGS
+Jade Swarmer
+ROGUE
+GANGS
+Gadgetzan Ferryman
+ROGUE
+GANGS
+Shadow Sensei
+SHAMAN
+GANGS
+Devolve
+SHAMAN
+GANGS
+Lotus Illusionist
+SHAMAN
+GANGS
+Jade Lightning
+DRUID
+GANGS
+Jade Blossom
+NEUTRAL
+GANGS
+Jade Spirit
+WARRIOR
+GANGS
+Sleep with the Fishes
+SHAMAN
+GANGS
+Jade Claws
+WARLOCK
+GANGS
+Krul the Unshackled
+WARLOCK
+GANGS
+Abyssal Enforcer
+WARRIOR
+GANGS
+Stolen Goods
+PALADIN
+GANGS
+Grimestreet Outfitter
+WARRIOR
+GANGS
+Grimy Gadgeteer
+WARRIOR
+GANGS
+Grimestreet Pawnbroker
+PALADIN
+GANGS
+Meanstreet Marshal
+MAGE
+GANGS
+Kabal Crystal Runner
+ROGUE
+GANGS
+Shaku, the Collector
+NEUTRAL
+GANGS
+Dirty Rat
+PALADIN
+GANGS
+Getaway Kodo
+NEUTRAL
+GANGS
+Wrathion
+NEUTRAL
+GANGS
+Auctionmaster Beardo
+NEUTRAL
+GANGS
+Genzo, the Shark
+NEUTRAL
+GANGS
+Tanaris Hogchopper
+NEUTRAL
+GANGS
+Leatherclad Hogleader
+DRUID
+GANGS
+Lunar Visions
+PALADIN
+GANGS
+Wickerflame Burnbristle
+DRUID
+GANGS
+Virmen Sensei
+NEUTRAL
+GANGS
+Daring Reporter
+NEUTRAL
+GANGS
+Lotus Agents
+NEUTRAL
+GANGS
+Grimestreet Smuggler
+NEUTRAL
+GANGS
+Ancient of Blossoms
+NEUTRAL
+GANGS
+Defias Cleaner
+WARLOCK
+GANGS
+Unlicensed Apothecary
+NEUTRAL
+GANGS
+Aya Blackpaw
+PALADIN
+GANGS
+Small-Time Recruits
+WARRIOR
+GANGS
+I Know a Guy
+NEUTRAL
+CORE
+Goldshire Footman
+NEUTRAL
+EXPERT1
+Fen Creeper
+PRIEST
+CORE
+Holy Nova
+PRIEST
+CORE
+Mind Control
+PRIEST
+EXPERT1
+Inner Fire
+PRIEST
+CORE
+Holy Smite
+PRIEST
+CORE
+Mind Vision
+PRIEST
+CORE
+Power Word: Shield
+DRUID
+CORE
+Claw
+DRUID
+CORE
+Healing Touch
+DRUID
+CORE
+Moonfire
+DRUID
+CORE
+Mark of the Wild
+DRUID
+CORE
+Savage Roar
+DRUID
+CORE
+Swipe
+DRUID
+CORE
+Wild Growth
+MAGE
+CORE
+Polymorph
+MAGE
+CORE
+Arcane Intellect
+MAGE
+CORE
+Frostbolt
+MAGE
+CORE
+Arcane Explosion
+MAGE
+CORE
+Frost Nova
+MAGE
+CORE
+Mirror Image
+MAGE
+EXPERT1
+Blizzard
+MAGE
+CORE
+Fireball
+MAGE
+HOF
+Ice Lance
+MAGE
+CORE
+Flamestrike
+MAGE
+CORE
+Water Elemental
+SHAMAN
+CORE
+Frost Shock
+SHAMAN
+EXPERT1
+Ancestral Spirit
+SHAMAN
+CORE
+Windfury
+SHAMAN
+CORE
+Ancestral Healing
+SHAMAN
+CORE
+Fire Elemental
+SHAMAN
+CORE
+Rockbiter Weapon
+SHAMAN
+CORE
+Bloodlust
+SHAMAN
+EXPERT1
+Far Sight
+WARLOCK
+CORE
+Shadow Bolt
+WARLOCK
+EXPERT1
+Blood Imp
+WARLOCK
+CORE
+Drain Life
+WARLOCK
+CORE
+Hellfire
+WARLOCK
+CORE
+Corruption
+WARLOCK
+CORE
+Dread Infernal
+WARLOCK
+CORE
+Voidwalker
+ROGUE
+CORE
+Backstab
+ROGUE
+EXPERT1
+Cold Blood
+ROGUE
+CORE
+Deadly Poison
+ROGUE
+CORE
+Sinister Strike
+ROGUE
+CORE
+Assassinate
+ROGUE
+CORE
+Sprint
+ROGUE
+CORE
+Assassin's Blade
+HUNTER
+CORE
+Hunter's Mark
+PALADIN
+CORE
+Blessing of Might
+PALADIN
+CORE
+Guardian of Kings
+PALADIN
+CORE
+Holy Light
+PALADIN
+CORE
+Light's Justice
+PALADIN
+CORE
+Blessing of Kings
+PALADIN
+CORE
+Consecration
+PALADIN
+CORE
+Hammer of Wrath
+PALADIN
+CORE
+Truesilver Champion
+WARRIOR
+CORE
+Charge
+WARRIOR
+EXPERT1
+Rampage
+WARRIOR
+CORE
+Heroic Strike
+WARRIOR
+CORE
+Fiery War Axe
+WARRIOR
+CORE
+Execute
+WARRIOR
+CORE
+Arcanite Reaper
+WARRIOR
+CORE
+Cleave
+NEUTRAL
+EXPERT1
+Earthen Ring Farseer
+NEUTRAL
+CORE
+Magma Rager
+NEUTRAL
+CORE
+Oasis Snapjaw
+NEUTRAL
+CORE
+River Crocolisk
+NEUTRAL
+CORE
+Frostwolf Grunt
+NEUTRAL
+CORE
+Raid Leader
+NEUTRAL
+CORE
+Wolfrider
+NEUTRAL
+CORE
+Ironfur Grizzly
+NEUTRAL
+CORE
+Silverback Patriarch
+NEUTRAL
+CORE
+Stormwind Knight
+NEUTRAL
+CORE
+Ironforge Rifleman
+NEUTRAL
+CORE
+Kobold Geomancer
+NEUTRAL
+EXPERT1
+Southsea Deckhand
+NEUTRAL
+CORE
+Gnomish Inventor
+NEUTRAL
+CORE
+Stormpike Commando
+NEUTRAL
+EXPERT1
+Silver Hand Knight
+NEUTRAL
+CORE
+Archmage
+NEUTRAL
+EXPERT1
+Ravenholdt Assassin
+NEUTRAL
+CORE
+Lord of the Arena
+NEUTRAL
+CORE
+Murloc Raider
+NEUTRAL
+EXPERT1
+Young Dragonhawk
+NEUTRAL
+CORE
+Stonetusk Boar
+NEUTRAL
+CORE
+Bloodfen Raptor
+NEUTRAL
+CORE
+Bluegill Warrior
+NEUTRAL
+CORE
+Sen'jin Shieldmasta
+NEUTRAL
+EXPERT1
+Injured Blademaster
+NEUTRAL
+CORE
+Chillwind Yeti
+NEUTRAL
+CORE
+War Golem
+NEUTRAL
+CORE
+Booty Bay Bodyguard
+NEUTRAL
+EXPERT1
+Abusive Sergeant
+NEUTRAL
+CORE
+Elven Archer
+NEUTRAL
+CORE
+Razorfen Hunter
+NEUTRAL
+CORE
+Ogre Magi
+NEUTRAL
+CORE
+Boulderfist Ogre
+NEUTRAL
+CORE
+Core Hound
+NEUTRAL
+EXPERT1
+Ironbeak Owl
+NEUTRAL
+CORE
+Reckless Rocketeer
+NEUTRAL
+EXPERT1
+Spiteful Smith
+NEUTRAL
+CORE
+Stormwind Champion
+NEUTRAL
+CORE
+Frostwolf Warlord
+NEUTRAL
+EXPERT1
+Venture Co. Mercenary
+NEUTRAL
+EXPERT1
+Wisp
+DRUID
+CORE
+Ironbark Protector
+ROGUE
+EXPERT1
+Blade Flurry
+PRIEST
+CORE
+Shadow Word: Pain
+PRIEST
+CORE
+Northshire Cleric
+PRIEST
+CORE
+Divine Spirit
+HUNTER
+CORE
+Starving Buzzard
+NEUTRAL
+CORE
+Darkscale Healer
+HUNTER
+CORE
+Houndmaster
+HUNTER
+CORE
+Timber Wolf
+HUNTER
+CORE
+Tundra Rhino
+HUNTER
+CORE
+Multi-Shot
+HUNTER
+CORE
+Tracking
+HUNTER
+CORE
+Arcane Shot
+HUNTER
+EXPERT1
+Gladiator's Longbow
+PRIEST
+CORE
+Mind Blast
+NEUTRAL
+EXPERT1
+Lightwarden
+NEUTRAL
+EXPERT1
+The Black Knight
+NEUTRAL
+EXPERT1
+Young Priestess
+NEUTRAL
+EXPERT1
+Big Game Hunter
+NEUTRAL
+EXPERT1
+Alarm-o-Bot
+NEUTRAL
+EXPERT1
+Acolyte of Pain
+NEUTRAL
+EXPERT1
+Argent Squire
+NEUTRAL
+EXPERT1
+Angry Chicken
+NEUTRAL
+EXPERT1
+Worgen Infiltrator
+NEUTRAL
+CORE
+Voodoo Doctor
+NEUTRAL
+EXPERT1
+Bloodmage Thalnos
+NEUTRAL
+EXPERT1
+King Mukla
+NEUTRAL
+CORE
+Novice Engineer
+NEUTRAL
+HOF
+Sylvanas Windrunner
+NEUTRAL
+EXPERT1
+Jungle Panther
+NEUTRAL
+CORE
+Shattered Sun Cleric
+NEUTRAL
+EXPERT1
+Scarlet Crusader
+NEUTRAL
+EXPERT1
+Thrallmar Farseer
+NEUTRAL
+EXPERT1
+Silvermoon Guardian
+NEUTRAL
+CORE
+Dragonling Mechanic
+NEUTRAL
+EXPERT1
+Stranglethorn Tiger
+NEUTRAL
+EXPERT1
+Leper Gnome
+NEUTRAL
+EXPERT1
+Sunwalker
+NEUTRAL
+EXPERT1
+Windfury Harpy
+NEUTRAL
+EXPERT1
+Twilight Drake
+NEUTRAL
+EXPERT1
+Questing Adventurer
+NEUTRAL
+EXPERT1
+Ancient Watcher
+NEUTRAL
+EXPERT1
+Dark Iron Dwarf
+NEUTRAL
+EXPERT1
+Spellbreaker
+NEUTRAL
+EXPERT1
+Youthful Brewmaster
+NEUTRAL
+EXPERT1
+Coldlight Oracle
+NEUTRAL
+EXPERT1
+Mana Addict
+NEUTRAL
+EXPERT1
+Ancient Brewmaster
+NEUTRAL
+EXPERT1
+Sunfury Protector
+NEUTRAL
+EXPERT1
+Crazed Alchemist
+NEUTRAL
+CORE
+Acidic Swamp Ooze
+NEUTRAL
+EXPERT1
+Argent Commander
+NEUTRAL
+EXPERT1
+Pint-Sized Summoner
+NEUTRAL
+EXPERT1
+Secretkeeper
+NEUTRAL
+EXPERT1
+Mad Bomber
+NEUTRAL
+EXPERT1
+Tinkmaster Overspark
+WARRIOR
+CORE
+Warsong Commander
+NEUTRAL
+EXPERT1
+Mind Control Tech
+NEUTRAL
+EXPERT1
+Arcane Golem
+PRIEST
+EXPERT1
+Cabal Shadow Priest
+NEUTRAL
+EXPERT1
+Defender of Argus
+NEUTRAL
+EXPERT1
+Gadgetzan Auctioneer
+NEUTRAL
+EXPERT1
+Loot Hoarder
+NEUTRAL
+EXPERT1
+Abomination
+NEUTRAL
+EXPERT1
+Lorewalker Cho
+NEUTRAL
+EXPERT1
+Demolisher
+NEUTRAL
+EXPERT1
+Coldlight Seer
+NEUTRAL
+EXPERT1
+Mountain Giant
+NEUTRAL
+EXPERT1
+Cairne Bloodhoof
+NEUTRAL
+EXPERT1
+Leeroy Jenkins
+ROGUE
+EXPERT1
+Eviscerate
+ROGUE
+EXPERT1
+Betrayal
+ROGUE
+HOF
+Conceal
+ROGUE
+CORE
+Fan of Knives
+PALADIN
+EXPERT1
+Noble Sacrifice
+ROGUE
+EXPERT1
+Defias Ringleader
+PALADIN
+EXPERT1
+Eye for an Eye
+ROGUE
+EXPERT1
+Perdition's Blade
+ROGUE
+EXPERT1
+SI:7 Agent
+PALADIN
+EXPERT1
+Redemption
+ROGUE
+EXPERT1
+Headcrack
+ROGUE
+EXPERT1
+Shadowstep
+ROGUE
+EXPERT1
+Preparation
+DRUID
+EXPERT1
+Wrath
+DRUID
+EXPERT1
+Mark of Nature
+DRUID
+EXPERT1
+Soul of the Forest
+DRUID
+EXPERT1
+Power of the Wild
+DRUID
+EXPERT1
+Naturalize
+NEUTRAL
+EXPERT1
+Dire Wolf Alpha
+DRUID
+EXPERT1
+Nourish
+DRUID
+EXPERT1
+Druid of the Claw
+DRUID
+EXPERT1
+Keeper of the Grove
+DRUID
+CORE
+Innervate
+NEUTRAL
+EXPERT1
+Emperor Cobra
+DRUID
+CORE
+Starfire
+DRUID
+EXPERT1
+Ancient of War
+SHAMAN
+EXPERT1
+Lightning Bolt
+SHAMAN
+EXPERT1
+Lava Burst
+SHAMAN
+EXPERT1
+Dust Devil
+SHAMAN
+CORE
+Totemic Might
+SHAMAN
+EXPERT1
+Earth Shock
+SHAMAN
+CORE
+Hex
+SHAMAN
+EXPERT1
+Stormforged Axe
+SHAMAN
+EXPERT1
+Feral Spirit
+SHAMAN
+EXPERT1
+Earth Elemental
+SHAMAN
+EXPERT1
+Forked Lightning
+SHAMAN
+EXPERT1
+Unbound Elemental
+SHAMAN
+EXPERT1
+Lightning Storm
+MAGE
+EXPERT1
+Ethereal Arcanist
+MAGE
+EXPERT1
+Cone of Cold
+MAGE
+CORE
+Arcane Missiles
+ROGUE
+CORE
+Shiv
+MAGE
+EXPERT1
+Pyroblast
+NEUTRAL
+EXPERT1
+Frost Elemental
+NEUTRAL
+HOF
+Azure Drake
+MAGE
+EXPERT1
+Counterspell
+MAGE
+EXPERT1
+Ice Barrier
+MAGE
+EXPERT1
+Mirror Entity
+MAGE
+EXPERT1
+Ice Block
+WARLOCK
+EXPERT1
+Felguard
+WARLOCK
+CORE
+Mortal Coil
+WARLOCK
+EXPERT1
+Shadowflame
+WARLOCK
+EXPERT1
+Void Terror
+WARLOCK
+CORE
+Succubus
+WARLOCK
+CORE
+Soulfire
+WARLOCK
+EXPERT1
+Siphon Soul
+WARLOCK
+EXPERT1
+Doomguard
+WARLOCK
+EXPERT1
+Twisting Nether
+WARLOCK
+EXPERT1
+Pit Lord
+WARLOCK
+HOF
+Power Overwhelming
+WARLOCK
+EXPERT1
+Sense Demons
+WARLOCK
+EXPERT1
+Flame Imp
+WARLOCK
+EXPERT1
+Bane of Doom
+WARLOCK
+EXPERT1
+Lord Jaraxxus
+PRIEST
+EXPERT1
+Silence
+PRIEST
+EXPERT1
+Shadow Madness
+PRIEST
+EXPERT1
+Lightspawn
+PRIEST
+EXPERT1
+Thoughtsteal
+PRIEST
+EXPERT1
+Lightwell
+PRIEST
+EXPERT1
+Mindgames
+PALADIN
+EXPERT1
+Divine Favor
+PALADIN
+EXPERT1
+Lay on Hands
+PALADIN
+EXPERT1
+Blessed Champion
+PALADIN
+CORE
+Humility
+PALADIN
+EXPERT1
+Argent Protector
+PALADIN
+EXPERT1
+Blessing of Wisdom
+PALADIN
+EXPERT1
+Holy Wrath
+PALADIN
+EXPERT1
+Sword of Justice
+PALADIN
+CORE
+Hand of Protection
+PALADIN
+EXPERT1
+Repentance
+PALADIN
+EXPERT1
+Aldor Peacekeeper
+PALADIN
+EXPERT1
+Tirion Fordring
+PALADIN
+EXPERT1
+Avenging Wrath
+NEUTRAL
+EXPERT1
+Tauren Warrior
+WARRIOR
+EXPERT1
+Slam
+WARRIOR
+EXPERT1
+Battle Rage
+NEUTRAL
+EXPERT1
+Amani Berserker
+NEUTRAL
+EXPERT1
+Mogu'shan Warden
+WARRIOR
+EXPERT1
+Arathi Weaponsmith
+NEUTRAL
+CORE
+Gurubashi Berserker
+WARRIOR
+CORE
+Whirlwind
+WARRIOR
+EXPERT1
+Armorsmith
+NEUTRAL
+EXPERT1
+Shieldbearer
+WARRIOR
+EXPERT1
+Brawl
+WARRIOR
+EXPERT1
+Mortal Strike
+WARRIOR
+EXPERT1
+Upgrade!
+WARRIOR
+EXPERT1
+Shield Slam
+WARRIOR
+EXPERT1
+Gorehowl
+NEUTRAL
+EXPERT1
+Raging Worgen
+WARRIOR
+EXPERT1
+Grommash Hellscream
+NEUTRAL
+CORE
+Murloc Tidehunter
+NEUTRAL
+EXPERT1
+Murloc Warleader
+NEUTRAL
+CORE
+Grimscale Oracle
+NEUTRAL
+EXPERT1
+Murloc Tidecaller
+ROGUE
+EXPERT1
+Patient Assassin
+HUNTER
+EXPERT1
+Scavenging Hyena
+HUNTER
+EXPERT1
+Misdirection
+HUNTER
+EXPERT1
+Savannah Highmane
+HUNTER
+EXPERT1
+Eaglehorn Bow
+HUNTER
+EXPERT1
+Explosive Shot
+HUNTER
+EXPERT1
+Unleash the Hounds
+HUNTER
+CORE
+Kill Command
+HUNTER
+EXPERT1
+King Krush
+HUNTER
+EXPERT1
+Flare
+HUNTER
+EXPERT1
+Bestial Wrath
+HUNTER
+EXPERT1
+Snake Trap
+NEUTRAL
+EXPERT1
+Harvest Golem
+NEUTRAL
+EXPERT1
+Nat Pagle
+NEUTRAL
+EXPERT1
+Harrison Jones
+MAGE
+EXPERT1
+Archmage Antonidas
+NEUTRAL
+EXPERT1
+Nozdormu
+NEUTRAL
+EXPERT1
+Alexstrasza
+NEUTRAL
+EXPERT1
+Malygos
+SHAMAN
+CORE
+Flametongue Totem
+SHAMAN
+EXPERT1
+Doomhammer
+DRUID
+EXPERT1
+Bite
+DRUID
+EXPERT1
+Force of Nature
+NEUTRAL
+EXPERT1
+Ysera
+DRUID
+EXPERT1
+Cenarius
+SHAMAN
+EXPERT1
+Mana Tide Totem
+NEUTRAL
+EXPERT1
+The Beast
+DRUID
+EXPERT1
+Savagery
+ROGUE
+CORE
+Sap
+NEUTRAL
+CORE
+Dalaran Mage
+NEUTRAL
+EXPERT1
+Priestess of Elune
+NEUTRAL
+EXPERT1
+Ancient Mage
+NEUTRAL
+EXPERT1
+Sea Giant
+SHAMAN
+CORE
+Windspeaker
+NEUTRAL
+EXPERT1
+Blood Knight
+PRIEST
+EXPERT1
+Auchenai Soulpriest
+NEUTRAL
+CORE
+Nightblade
+MAGE
+EXPERT1
+Vaporize
+NEUTRAL
+EXPERT1
+Cult Master
+WARLOCK
+EXPERT1
+Demonfire
+NEUTRAL
+EXPERT1
+Imp Master
+WARRIOR
+EXPERT1
+Cruel Taskmaster
+WARRIOR
+EXPERT1
+Frothing Berserker
+WARRIOR
+CORE
+Shield Block
+WARRIOR
+EXPERT1
+Inner Rage
+MAGE
+EXPERT1
+Sorcerer's Apprentice
+HUNTER
+EXPERT1
+Snipe
+HUNTER
+EXPERT1
+Explosive Trap
+HUNTER
+EXPERT1
+Freezing Trap
+MAGE
+EXPERT1
+Kirin Tor Mage
+ROGUE
+EXPERT1
+Edwin VanCleef
+NEUTRAL
+EXPERT1
+Illidan Stormrage
+NEUTRAL
+EXPERT1
+Mana Wraith
+HUNTER
+EXPERT1
+Deadly Shot
+PALADIN
+EXPERT1
+Equality
+NEUTRAL
+EXPERT1
+Molten Giant
+PRIEST
+EXPERT1
+Circle of Healing
+PRIEST
+CORE
+Shadow Word: Death
+PRIEST
+EXPERT1
+Temple Enforcer
+PRIEST
+EXPERT1
+Holy Fire
+PRIEST
+EXPERT1
+Shadowform
+PRIEST
+EXPERT1
+Mass Dispel
+HUNTER
+ICECROWN
+Professor Putricide
+MAGE
+ICECROWN
+Sindragosa
+NEUTRAL
+NAXX
+Nerubian Egg
+HUNTER
+NAXX
+Webspinner
+MAGE
+GVG
+Flamecannon
+DRUID
+GVG
+Recycle
+DRUID
+GVG
+Tree of Life
+DRUID
+GVG
+Malorne
+PALADIN
+GVG
+Muster for Battle
+HUNTER
+GVG
+Cobra Shot
+DRUID
+GVG
+Druid of the Fang
+NEUTRAL
+GVG
+Jeeves
+NEUTRAL
+GVG
+Dr. Boom
+MAGE
+GVG
+Soot Spewer
+WARRIOR
+CORE
+Garrosh Hellscream
+SHAMAN
+CORE
+Thrall
+ROGUE
+CORE
+Valeera Sanguinar
+PALADIN
+CORE
+Uther Lightbringer
+HUNTER
+CORE
+Rexxar
+DRUID
+CORE
+Malfurion Stormrage
+WARLOCK
+CORE
+Gul'dan
+MAGE
+CORE
+Jaina Proudmoore
+PRIEST
+CORE
+Anduin Wrynn
+HUNTER
+ICECROWN
+Exploding Bloatbat
+NEUTRAL
+ICECROWN
+Snowflipper Penguin
+NEUTRAL
+ICECROWN
+Rattling Rascal
+NEUTRAL
+ICECROWN
+Grim Necromancer
+NEUTRAL
+ICECROWN
+Bone Drake
+NEUTRAL
+ICECROWN
+Cobalt Scalebane
+NEUTRAL
+ICECROWN
+Venomancer
+PALADIN
+ICECROWN
+Arrogant Crusader
+PALADIN
+ICECROWN
+Righteous Protector
+HUNTER
+ICECROWN
+Toxic Arrow
+DRUID
+ICECROWN
+Webweave
+DRUID
+ICECROWN
+Druid of the Swarm
+HUNTER
+ICECROWN
+Play Dead
+DRUID
+ICECROWN
+Spreading Plague
+ROGUE
+ICECROWN
+Bone Baron
+NEUTRAL
+ICECROWN
+Vryghoul
+MAGE
+ICECROWN
+Ghastly Conjurer
+DRUID
+ICECROWN
+Gnash
+SHAMAN
+ICECROWN
+Drakkari Defender
+MAGE
+ICECROWN
+Frozen Clone
+MAGE
+ICECROWN
+Doomed Apprentice
+DRUID
+ICECROWN
+Ultimate Infestation
+NEUTRAL
+ICECROWN
+Fallen Sun Cleric
+NEUTRAL
+ICECROWN
+Ticking Abomination
+HUNTER
+ICECROWN
+Venomstrike Trap
+ROGUE
+ICECROWN
+Roll the Bones
+PRIEST
+ICECROWN
+Devour Mind
+PRIEST
+ICECROWN
+Shadow Ascendant
+PRIEST
+ICECROWN
+Acolyte of Agony
+PRIEST
+ICECROWN
+Eternal Servitude
+PRIEST
+ICECROWN
+Obsidian Statue
+NEUTRAL
+ICECROWN
+Deadscale Knight
+ROGUE
+ICECROWN
+Leeching Poison
+ROGUE
+ICECROWN
+Doomerang
+PRIEST
+ICECROWN
+Shadow Essence
+HUNTER
+ICECROWN
+Corpse Widow
+MAGE
+ICECROWN
+Coldwraith
+NEUTRAL
+ICECROWN
+The Lich King
+HUNTER
+ICECROWN
+Stitched Tracker
+HUNTER
+ICECROWN
+Bearshark
+NEUTRAL
+ICECROWN
+Saronite Chain Gang
+SHAMAN
+ICECROWN
+Thrall, Deathseer
+NEUTRAL
+ICECROWN
+Happy Ghoul
+NEUTRAL
+ICECROWN
+Skulking Geist
+NEUTRAL
+ICECROWN
+Shallow Gravedigger
+NEUTRAL
+ICECROWN
+Bonemare
+PALADIN
+ICECROWN
+Howling Commander
+PRIEST
+ICECROWN
+Spirit Lash
+DRUID
+ICECROWN
+Strongshell Scavenger
+DRUID
+ICECROWN
+Crypt Lord
+ROGUE
+ICECROWN
+Plague Scientist
+PALADIN
+ICECROWN
+Chillblade Champion
+MAGE
+ICECROWN
+Simulacrum
+HUNTER
+ICECROWN
+Abominable Bowman
+ROGUE
+ICECROWN
+Valeera the Hollow
+HUNTER
+ICECROWN
+Deathstalker Rexxar
+NEUTRAL
+UNGORO
+Stubborn Gastropod
+NEUTRAL
+UNGORO
+Giant Wasp
+PALADIN
+ICECROWN
+Uther of the Ebon Blade
+PRIEST
+ICECROWN
+Shadowreaper Anduin
+WARLOCK
+ICECROWN
+Bloodreaver Gul'dan
+DRUID
+ICECROWN
+Malfurion the Pestilent
+MAGE
+ICECROWN
+Frost Lich Jaina
+WARRIOR
+ICECROWN
+Scourgelord Garrosh
+DRUID
+ICECROWN
+Hadronox
+MAGE
+ICECROWN
+Breath of Sindragosa
+PRIEST
+ICECROWN
+Embrace Darkness
+NEUTRAL
+ICECROWN
+Prince Keleseth
+NEUTRAL
+ICECROWN
+Prince Valanar
+NEUTRAL
+ICECROWN
+Arfus
+NEUTRAL
+ICECROWN
+Hyldnir Frostrider
+NEUTRAL
+ICECROWN
+Spellweaver
+NEUTRAL
+ICECROWN
+Drakkari Enchanter
+NEUTRAL
+ICECROWN
+Mindbreaker
+NEUTRAL
+ICECROWN
+Wicked Skeleton
+NEUTRAL
+ICECROWN
+Bloodworm
+ROGUE
+ICECROWN
+Spectral Pillager
+NEUTRAL
+ICECROWN
+Keening Banshee
+NEUTRAL
+ICECROWN
+Corpsetaker
+NEUTRAL
+ICECROWN
+Tainted Zealot
+HUNTER
+KARA
+Cat Trick
+HUNTER
+KARA
+Kindly Grandmother
+HUNTER
+KARA
+Cloaked Huntress
+MAGE
+KARA
+Babbling Book
+PALADIN
+KARA
+Nightbane Templar
+NEUTRAL
+KARA
+Pompous Thespian
+PRIEST
+KARA
+Purify
+SHAMAN
+KARA
+Wicked Witchdoctor
+WARLOCK
+KARA
+Kara Kazham!
+WARRIOR
+KARA
+Protect the King!
+NEUTRAL
+KARA
+Runic Egg
+NEUTRAL
+KARA
+Pantry Spider
+NEUTRAL
+KARA
+Book Wyrm
+PRIEST
+KARA
+Priest of the Feast
+NEUTRAL
+KARA
+Arcane Anomaly
+NEUTRAL
+KARA
+Avian Watcher
+NEUTRAL
+KARA
+Moat Lurker
+NEUTRAL
+KARA
+Moroes
+PALADIN
+KARA
+Ivory Knight
+NEUTRAL
+KARA
+The Curator
+NEUTRAL
+KARA
+Netherspite Historian
+SHAMAN
+KARA
+Spirit Claws
+DRUID
+KARA
+Menagerie Warden
+ROGUE
+KARA
+Swashburglar
+ROGUE
+KARA
+Ethereal Peddler
+SHAMAN
+KARA
+Maelstrom Portal
+DRUID
+KARA
+Moonglade Portal
+MAGE
+KARA
+Firelands Portal
+PALADIN
+KARA
+Silvermoon Portal
+WARLOCK
+KARA
+Malchezaar's Imp
+WARRIOR
+KARA
+Ironforge Portal
+MAGE
+KARA
+Medivh's Valet
+ROGUE
+KARA
+Deadly Fork
+NEUTRAL
+KARA
+Zoobot
+NEUTRAL
+KARA
+Prince Malchezaar
+NEUTRAL
+KARA
+Medivh, the Guardian
+NEUTRAL
+KARA
+Barnes
+PRIEST
+KARA
+Onyx Bishop
+DRUID
+KARA
+Enchanted Raven
+NEUTRAL
+KARA
+Menagerie Magician
+NEUTRAL
+KARA
+Arcanosmith
+NEUTRAL
+KARA
+Arcane Giant
+NEUTRAL
+KARA
+Violet Illusionist
+MAGE
+LOE
+Forgotten Torch
+MAGE
+LOE
+Ethereal Conjurer
+PRIEST
+LOE
+Museum Curator
+WARLOCK
+LOE
+Curse of Rafaam
+WARRIOR
+LOE
+Obsidian Destroyer
+ROGUE
+LOE
+Pit Snake
+NEUTRAL
+LOE
+Reno Jackson
+ROGUE
+LOE
+Tomb Pillager
+SHAMAN
+LOE
+Rumbling Elemental
+PALADIN
+LOE
+Keeper of Uldaman
+SHAMAN
+LOE
+Tunnel Trogg
+ROGUE
+LOE
+Unearthed Raptor
+HUNTER
+LOE
+Desert Camel
+HUNTER
+LOE
+Dart Trap
+WARRIOR
+LOE
+Fierce Monkey
+WARLOCK
+LOE
+Dark Peddler
+PALADIN
+LOE
+Anyfin Can Happen
+PALADIN
+LOE
+Sacred Trial
+NEUTRAL
+LOE
+Jeweled Scarab
+NEUTRAL
+LOE
+Naga Sea Witch
+NEUTRAL
+LOE
+Gorillabot A-3
+NEUTRAL
+LOE
+Huge Toad
+NEUTRAL
+LOE
+Tomb Spider
+DRUID
+LOE
+Mounted Raptor
+DRUID
+LOE
+Jungle Moonkin
+NEUTRAL
+LOE
+Anubisath Sentinel
+NEUTRAL
+LOE
+Fossilized Devilsaur
+NEUTRAL
+LOE
+Sir Finley Mrrgglton
+NEUTRAL
+LOE
+Brann Bronzebeard
+NEUTRAL
+LOE
+Elise Starseeker
+NEUTRAL
+LOE
+Summoning Stone
+NEUTRAL
+LOE
+Wobbling Runts
+NEUTRAL
+LOE
+Arch-Thief Rafaam
+PRIEST
+LOE
+Entomb
+HUNTER
+LOE
+Explorer's Hat
+NEUTRAL
+LOE
+Eerie Statue
+NEUTRAL
+LOE
+Ancient Shade
+PRIEST
+LOE
+Excavated Evil
+SHAMAN
+LOE
+Everyfin is Awesome
+DRUID
+LOE
+Raven Idol
+WARLOCK
+LOE
+Reliquary Seeker
+WARRIOR
+LOE
+Cursed Blade
+MAGE
+LOE
+Animated Armor
+NEUTRAL
+LOE
+Murloc Tinyfin
+WARLOCK
+CORE
+Sacrificial Pact
+ROGUE
+CORE
+Vanish
+ROGUE
+EXPERT1
+Kidnapper
+DRUID
+EXPERT1
+Starfall
+DRUID
+EXPERT1
+Ancient of Lore
+SHAMAN
+EXPERT1
+Al'Akir the Windlord
+WARRIOR
+CORE
+Kor'kron Elite
+MAGE
+EXPERT1
+Mana Wyrm
+ROGUE
+EXPERT1
+Master of Disguise
+NEUTRAL
+EXPERT1
+Hungry Crab
+NEUTRAL
+EXPERT1
+Bloodsail Raider
+NEUTRAL
+EXPERT1
+Knife Juggler
+NEUTRAL
+EXPERT1
+Wild Pyromancer
+NEUTRAL
+EXPERT1
+Doomsayer
+NEUTRAL
+EXPERT1
+Dread Corsair
+NEUTRAL
+EXPERT1
+Faerie Dragon
+NEUTRAL
+EXPERT1
+Captain Greenskin
+NEUTRAL
+EXPERT1
+Bloodsail Corsair
+NEUTRAL
+EXPERT1
+Violet Teacher
+NEUTRAL
+EXPERT1
+Southsea Captain
+NEUTRAL
+EXPERT1
+Millhouse Manastorm
+NEUTRAL
+EXPERT1
+Deathwing
+HUNTER
+CORE
+Animal Companion
+NEUTRAL
+EXPERT1
+Master Swordsmith
+NEUTRAL
+EXPERT1
+Gruul
+NEUTRAL
+EXPERT1
+Hogger
+NEUTRAL
+EXPERT1
+Stampeding Kodo
+PALADIN
+OG
+Vilefin Inquisitor
+SHAMAN
+OG
+Primal Fusion
+SHAMAN
+OG
+Flamewreathed Faceless
+SHAMAN
+OG
+Eternal Sentinel
+SHAMAN
+OG
+Evolve
+SHAMAN
+OG
+Thing from Below
+SHAMAN
+OG
+Hammer of Twilight
+WARRIOR
+OG
+Tentacles for Arms
+NEUTRAL
+OG
+Silithid Swarmer
+NEUTRAL
+OG
+Y'Shaarj, Rage Unbound
+DRUID
+OG
+Fandral Staghelm
+HUNTER
+OG
+Infest
+DRUID
+OG
+Feral Rage
+DRUID
+OG
+Mark of Y'Shaarj
+DRUID
+OG
+Forbidden Ancient
+HUNTER
+OG
+On the Hunt
+ROGUE
+OG
+Bladed Cultist
+ROGUE
+OG
+Journey Below
+ROGUE
+OG
+Thistle Tea
+ROGUE
+OG
+Xaril, Poisoned Mind
+MAGE
+OG
+Shatter
+NEUTRAL
+OG
+Evolved Kobold
+MAGE
+OG
+Twilight Flamecaller
+MAGE
+OG
+Demented Frostcaller
+MAGE
+OG
+Forbidden Flame
+MAGE
+OG
+Cabalist's Tome
+PRIEST
+OG
+Power Word: Tentacles
+PRIEST
+OG
+Twilight Darkmender
+PRIEST
+OG
+Shadow Word: Horror
+PRIEST
+OG
+Forbidden Shaping
+NEUTRAL
+OG
+Darkspeaker
+PRIEST
+OG
+Embrace the Shadow
+WARLOCK
+OG
+Darkshire Librarian
+WARLOCK
+OG
+Darkshire Councilman
+WARLOCK
+OG
+Forbidden Ritual
+WARLOCK
+OG
+Spreading Madness
+MAGE
+OG
+Anomalus
+NEUTRAL
+OG
+Mukla, Tyrant of the Vale
+NEUTRAL
+OG
+Twin Emperor Vek'lor
+NEUTRAL
+OG
+N'Zoth, the Corruptor
+NEUTRAL
+OG
+Nerubian Prophet
+NEUTRAL
+OG
+Faceless Behemoth
+NEUTRAL
+OG
+Eldritch Horror
+NEUTRAL
+OG
+Psych-o-Tron
+NEUTRAL
+OG
+Corrupted Healbot
+WARRIOR
+OG
+Ravaging Ghoul
+NEUTRAL
+OG
+Aberrant Berserker
+NEUTRAL
+OG
+Tentacle of N'Zoth
+NEUTRAL
+OG
+Grotesque Dragonhawk
+NEUTRAL
+OG
+Bog Creeper
+NEUTRAL
+OG
+Bilefin Tidehunter
+NEUTRAL
+OG
+Zealous Initiate
+NEUTRAL
+OG
+Corrupted Seer
+NEUTRAL
+OG
+Disciple of C'Thun
+NEUTRAL
+OG
+Faceless Shambler
+ROGUE
+OG
+Shadow Strike
+HUNTER
+OG
+Fiery Bat
+DRUID
+OG
+Klaxxi Amber-Weaver
+DRUID
+OG
+Wisps of the Old Gods
+PALADIN
+OG
+Forbidden Healing
+NEUTRAL
+OG
+Validated Doomsayer
+DRUID
+OG
+Mire Keeper
+SHAMAN
+OG
+Stormcrack
+MAGE
+OG
+Faceless Summoner
+HUNTER
+OG
+Infested Wolf
+WARRIOR
+OG
+Bloodhoof Brave
+WARRIOR
+OG
+Malkorok
+PALADIN
+OG
+Selfless Hero
+PALADIN
+OG
+Rallying Blade
+PALADIN
+OG
+Divine Strength
+PALADIN
+OG
+Ragnaros, Lightlord
+PRIEST
+OG
+Darkshire Alchemist
+WARLOCK
+OG
+DOOM!
+WARLOCK
+OG
+Possessed Villager
+NEUTRAL
+OG
+Twisted Worgen
+NEUTRAL
+OG
+Am'gam Rager
+NEUTRAL
+OG
+Infested Tauren
+NEUTRAL
+OG
+Eater of Secrets
+NEUTRAL
+OG
+Doomcaller
+NEUTRAL
+OG
+Spawn of N'Zoth
+ROGUE
+OG
+Southsea Squidface
+NEUTRAL
+OG
+Scaled Nightmare
+NEUTRAL
+OG
+Twilight Summoner
+PALADIN
+OG
+Stand Against Darkness
+WARRIOR
+OG
+Blood Warriors
+NEUTRAL
+OG
+C'Thun
+NEUTRAL
+OG
+Beckoner of Evil
+NEUTRAL
+OG
+C'Thun's Chosen
+NEUTRAL
+OG
+Twilight Geomancer
+NEUTRAL
+OG
+Twilight Elder
+NEUTRAL
+OG
+Ancient Harbinger
+ROGUE
+OG
+Shadowcaster
+HUNTER
+OG
+Forlorn Stalker
+DRUID
+OG
+Dark Arakkoa
+NEUTRAL
+OG
+Cult Apothecary
+NEUTRAL
+OG
+The Boogeymonster
+WARRIOR
+OG
+Ancient Shieldbearer
+WARLOCK
+OG
+Usher of Souls
+MAGE
+OG
+Cult Sorcerer
+HUNTER
+OG
+Giant Sand Worm
+HUNTER
+OG
+Princess Huhuran
+PALADIN
+OG
+Steward of Darkshire
+PALADIN
+OG
+A Light in the Darkness
+WARRIOR
+OG
+N'Zoth's First Mate
+DRUID
+OG
+Addled Grizzly
+WARRIOR
+OG
+Blood To Ichor
+WARRIOR
+OG
+Bloodsail Cultist
+PRIEST
+OG
+Herald Volazj
+NEUTRAL
+OG
+Deathwing, Dragonlord
+NEUTRAL
+OG
+Hogger, Doom of Elwynn
+NEUTRAL
+OG
+Midnight Drake
+NEUTRAL
+OG
+Crazed Worshipper
+NEUTRAL
+OG
+Blackwater Pirate
+NEUTRAL
+OG
+Polluted Hoarder
+HUNTER
+OG
+Carrion Grub
+NEUTRAL
+OG
+Duskboar
+NEUTRAL
+OG
+Squirming Tentacle
+SHAMAN
+OG
+Master of Evolution
+ROGUE
+OG
+Undercity Huckster
+PRIEST
+OG
+Hooded Acolyte
+PRIEST
+OG
+Shifting Shade
+NEUTRAL
+OG
+Cyclopian Horror
+NEUTRAL
+OG
+Nat, the Darkfisher
+NEUTRAL
+OG
+Skeram Cultist
+NEUTRAL
+OG
+Soggoth the Slitherer
+HUNTER
+UNGORO
+Stampede
+NEUTRAL
+EXPERT1
+Flesheating Ghoul
+NEUTRAL
+UNGORO
+Pterrordax Hatchling
+NEUTRAL
+UNGORO
+Volcanosaur
+PALADIN
+UNGORO
+Dinosize
+NEUTRAL
+UNGORO
+Ravasaur Runt
+NEUTRAL
+UNGORO
+Sated Threshadon
+PALADIN
+UNGORO
+Hydrologist
+PALADIN
+UNGORO
+Sunkeeper Tarim
+MAGE
+UNGORO
+Flame Geyser
+SHAMAN
+UNGORO
+Air Elemental
+MAGE
+UNGORO
+Arcanologist
+MAGE
+UNGORO
+Steam Surger
+PRIEST
+UNGORO
+Mirage Caller
+SHAMAN
+UNGORO
+Volcano
+MAGE
+UNGORO
+Pyros
+PRIEST
+UNGORO
+Shadow Visions
+PRIEST
+UNGORO
+Binding Heal
+PRIEST
+UNGORO
+Crystalline Oracle
+PRIEST
+UNGORO
+Radiant Elemental
+PRIEST
+UNGORO
+Curious Glimmerroot
+PRIEST
+UNGORO
+Tortollan Shellraiser
+WARLOCK
+UNGORO
+Ravenous Pterrordax
+WARLOCK
+UNGORO
+Tar Lurker
+ROGUE
+UNGORO
+Razorpetal Volley
+ROGUE
+UNGORO
+Razorpetal Lasher
+ROGUE
+UNGORO
+Mimic Pod
+ROGUE
+UNGORO
+Biteweed
+ROGUE
+UNGORO
+Vilespine Slayer
+NEUTRAL
+UNGORO
+Tol'vir Stoneshaper
+NEUTRAL
+UNGORO
+Giant Mastodon
+NEUTRAL
+UNGORO
+Stonehill Defender
+NEUTRAL
+UNGORO
+Rockpool Hunter
+NEUTRAL
+UNGORO
+Vicious Fledgling
+NEUTRAL
+UNGORO
+Eggnapper
+DRUID
+UNGORO
+Tortollan Forager
+NEUTRAL
+UNGORO
+Thunder Lizard
+NEUTRAL
+UNGORO
+Devilsaur Egg
+NEUTRAL
+UNGORO
+Fire Plume Phoenix
+NEUTRAL
+UNGORO
+Emerald Hive Queen
+DRUID
+UNGORO
+Giant Anaconda
+NEUTRAL
+UNGORO
+Bittertide Hydra
+NEUTRAL
+UNGORO
+Gentle Megasaur
+NEUTRAL
+UNGORO
+Charged Devilsaur
+DRUID
+UNGORO
+Verdant Longneck
+DRUID
+UNGORO
+Shellshifter
+DRUID
+UNGORO
+Evolving Spores
+DRUID
+UNGORO
+Earthen Scales
+DRUID
+UNGORO
+Elder Longneck
+DRUID
+UNGORO
+Living Mana
+NEUTRAL
+UNGORO
+Bright-Eyed Scout
+DRUID
+UNGORO
+Jungle Giants
+SHAMAN
+UNGORO
+Primalfin Totem
+SHAMAN
+UNGORO
+Fire Plume Harbinger
+NEUTRAL
+UNGORO
+Glacial Shard
+SHAMAN
+UNGORO
+Stone Sentinel
+SHAMAN
+UNGORO
+Kalimos, Primal Lord
+HUNTER
+UNGORO
+Terrorscale Stalker
+NEUTRAL
+UNGORO
+Nesting Roc
+NEUTRAL
+UNGORO
+Emerald Reaver
+NEUTRAL
+UNGORO
+Ultrasaur
+NEUTRAL
+UNGORO
+Golakka Crawler
+NEUTRAL
+UNGORO
+Fire Fly
+NEUTRAL
+UNGORO
+Stegodon
+NEUTRAL
+UNGORO
+Sabretooth Stalker
+NEUTRAL
+UNGORO
+Stormwatcher
+NEUTRAL
+UNGORO
+Servant of Kalimos
+SHAMAN
+UNGORO
+Tidal Surge
+NEUTRAL
+UNGORO
+Volatile Elemental
+ROGUE
+UNGORO
+Envenom Weapon
+WARLOCK
+UNGORO
+Lakkari Felhound
+WARLOCK
+UNGORO
+Feeding Time
+WARLOCK
+UNGORO
+Chittering Tunneler
+WARRIOR
+UNGORO
+Tar Lord
+NEUTRAL
+UNGORO
+Hemet, Jungle Hunter
+NEUTRAL
+UNGORO
+Humongous Razorleaf
+NEUTRAL
+UNGORO
+Igneous Elemental
+MAGE
+UNGORO
+Shimmering Tempest
+NEUTRAL
+UNGORO
+Blazecaller
+NEUTRAL
+UNGORO
+Primordial Drake
+NEUTRAL
+UNGORO
+Elise the Trailblazer
+DRUID
+UNGORO
+Tyrantus
+PRIEST
+UNGORO
+Free From Amber
+ROGUE
+UNGORO
+Hallucination
+NEUTRAL
+UNGORO
+Spiritsinger Umbra
+NEUTRAL
+UNGORO
+Ozruk
+HUNTER
+UNGORO
+Grievous Bite
+HUNTER
+UNGORO
+Jeweled Macaw
+HUNTER
+UNGORO
+Tol'vir Warden
+HUNTER
+UNGORO
+Raptor Hatchling
+HUNTER
+UNGORO
+Crackling Razormaw
+HUNTER
+UNGORO
+Dinomancy
+HUNTER
+UNGORO
+Swamp King Dred
+HUNTER
+UNGORO
+The Marsh Queen
+WARRIOR
+UNGORO
+Explore Un'Goro
+WARRIOR
+UNGORO
+Iron Hide
+WARRIOR
+UNGORO
+Ornery Direhorn
+WARRIOR
+UNGORO
+Cornered Sentry
+WARRIOR
+UNGORO
+Sudden Genesis
+NEUTRAL
+UNGORO
+Tar Creeper
+WARRIOR
+UNGORO
+King Mosh
+WARRIOR
+UNGORO
+Fire Plume's Heart
+NEUTRAL
+UNGORO
+Primalfin Lookout
+SHAMAN
+UNGORO
+Hot Spring Guardian
+PRIEST
+UNGORO
+Awaken the Makers
+MAGE
+UNGORO
+Primordial Glyph
+SHAMAN
+UNGORO
+Unite the Murlocs
+NEUTRAL
+UNGORO
+Gluttonous Ooze
+MAGE
+UNGORO
+Molten Reflection
+PALADIN
+UNGORO
+Vinecleaver
+PALADIN
+UNGORO
+Spikeridged Steed
+MAGE
+UNGORO
+Meteor
+SHAMAN
+UNGORO
+Spirit Echo
+WARRIOR
+UNGORO
+Direhorn Hatchling
+PALADIN
+UNGORO
+Lost in the Jungle
+PALADIN
+UNGORO
+Adaptation
+PALADIN
+UNGORO
+Lightfused Stegodon
+PRIEST
+UNGORO
+Lyra the Sunshard
+main i, deck number=0
+outer i, deck number=0
+Printing Deck player 1, loop is here=0
+Sir Finley Mrrgglton
+Fiery War Axe
+Fiery War Axe
+Heroic Strike
+Heroic Strike
+N'Zoth's First Mate
+N'Zoth's First Mate
+Upgrade!
+Upgrade!
+Bloodsail Cultist
+Bloodsail Cultist
+Frothing Berserker
+Frothing Berserker
+Kor'kron Elite
+Kor'kron Elite
+Arcanite Reaper
+Arcanite Reaper
+Patches the Pirate
+Small-Time Buccaneer
+Small-Time Buccaneer
+Southsea Deckhand
+Southsea Deckhand
+Bloodsail Raider
+Bloodsail Raider
+Southsea Captain
+Southsea Captain
+Dread Corsair
+Dread Corsair
+Naga Corsair
+Naga Corsair
+Printing Deck player 2 loop is here=0
+Tunnel Trogg
+Tunnel Trogg
+Totem Golem
+Totem Golem
+Thing from Below
+Thing from Below
+Spirit Claws
+Spirit Claws
+Maelstrom Portal
+Maelstrom Portal
+Lightning Storm
+Lightning Bolt
+Jade Lightning
+Jade Lightning
+Jade Claws
+Jade Claws
+Hex
+Hex
+Flametongue Totem
+Flametongue Totem
+Al'Akir the Windlord
+Patches the Pirate
+Small-Time Buccaneer
+Small-Time Buccaneer
+Bloodmage Thalnos
+Barnes
+Azure Drake
+Azure Drake
+Aya Blackpaw
+Ragnaros the Firelord
+256
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** JOB 4385100 ON phi-01-02 CANCELLED AT 2018-02-04T11:29:44 ***
+slurmstepd: error: *** STEP 4385100.0 ON phi-01-02 CANCELLED AT 2018-02-04T11:29:44 ***

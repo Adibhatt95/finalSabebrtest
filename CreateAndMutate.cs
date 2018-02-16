@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SabberStoneCore.Model;
+using System.IO;
 namespace Sabbertest2
 {
     class CreateAndMutate
@@ -30,25 +31,25 @@ namespace Sabbertest2
         public Dictionary<int, List<Card>> crossOver(List<Card> Deck1, List<Card> Deck2, int numChilds)
         {
             Dictionary<int, List<Card>> children = new Dictionary<int, List<Card>>();
-            for(int i = 0; i < numChilds; i++)
+            for (int i = 0; i < numChilds; i++)
             {
                 //Dictionary<int, child = new List<Card>();
                 Random rnd = new Random();
                 for (int j = 0; j < 30; j++)
                 {
                     int chooseDeck = rnd.Next(0, 2);
-                    if(chooseDeck > 1)
+                    if (chooseDeck > 1)
                     {
                         Console.WriteLine("Error Detected at chooseDeck");
                     }
-                    if(chooseDeck == 0)
+                    if (chooseDeck == 0)
                     {
                         int chosenCard = rnd.Next(0, 30);
 
                     }
                 }
-                
-                
+
+
             }
             return children;
         }
@@ -138,6 +139,41 @@ namespace Sabbertest2
             }
         }
 
+        public void printToFile(List<Card> listToPrint, string path)
+        {
+          
+            string build = "";
+            for (int i = 0; i < 30; i++)
+            {
+                build += listToPrint[i].Name + "*";
+            }
+            try
+            {
+                if (!File.Exists(path))
+                {
+                    File.Create(path).Dispose();
+                    using (StreamWriter tw = File.AppendText(path))
+                    {
+                        tw.WriteLine(build);
+                        tw.Close();
+                    }
+                }
+                else
+                {
+                    using (StreamWriter tw = File.AppendText(path))
+                    {
+                        tw.WriteLine(build);
+                        tw.Close();
+                    }
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+
+        }
 
         public List<Card> createRandomDeck(Dictionary<int, string> allcards, Dictionary<string, int> cardname)
         {

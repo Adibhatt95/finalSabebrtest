@@ -1,0 +1,1080 @@
+12
+13
+11
+0
+9
+31
+4
+16
+14
+1
+3
+30
+2
+6
+15
+8
+5
+7
+10
+32
+23
+59
+18
+62
+61
+55
+69
+57
+26
+60
+48
+28
+70
+53
+78
+87
+17
+63
+35
+58
+83
+88
+27
+64
+38
+54
+79
+90
+19
+67
+33
+108
+56
+82
+85
+93
+22
+72
+37
+110
+119
+80
+86
+91
+24
+68
+42
+106
+130
+121
+75
+92
+29
+73
+34
+105
+137
+129
+122
+76
+96
+25
+65
+40
+111
+139
+145
+126
+161
+118
+168
+84
+95
+21
+71
+173
+39
+112
+135
+152
+125
+160
+123
+166
+74
+98
+20
+66
+174
+45
+109
+134
+147
+127
+162
+124
+167
+97
+175
+46
+113
+136
+148
+132
+159
+120
+165
+81
+89
+177
+51
+114
+141
+151
+128
+163
+170
+77
+99
+176
+49
+107
+140
+149
+131
+164
+171
+100
+178
+50
+115
+143
+154
+133
+169
+94
+179
+43
+117
+138
+156
+172
+102
+44
+116
+142
+150
+101
+52
+144
+146
+103
+47
+153
+104
+41
+158
+36
+157
+155
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:21health player 2:0turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:05Time taken:00:00:05
+
+parallel ID: 120 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:05Time taken:00:00:05
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:17health player 2:-1turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:06Time taken:00:00:06
+
+parallel ID: 31 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:06Time taken:00:00:06
+
+The given key was not present in the dictionary.
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:07Time taken:00:00:07
+
+parallel ID: 90 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:07Time taken:00:00:07
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:12turns:10
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:07Time taken:00:00:07
+
+parallel ID: 161 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:07Time taken:00:00:07
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:20health player 2:-1turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:08Time taken:00:00:08
+
+parallel ID: 55 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:08Time taken:00:00:08
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:16turns:10
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:09Time taken:00:00:09
+
+parallel ID: 5 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:09Time taken:00:00:09
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:15health player 2:-1turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:09Time taken:00:00:09
+
+parallel ID: 163 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:09Time taken:00:00:09
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:12turns:10
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:10Time taken:00:00:10
+
+parallel ID: 29 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:10Time taken:00:00:10
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:25health player 2:0turns:9
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:09Time taken:00:00:09
+
+parallel ID: 157 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:09Time taken:00:00:09
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:15health player 2:-6turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:10Time taken:00:00:10
+
+parallel ID: 85 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:10Time taken:00:00:10
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:19health player 2:0turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:11Time taken:00:00:11
+
+parallel ID: 67 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:11Time taken:00:00:11
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:14turns:10
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:10Time taken:00:00:10
+
+parallel ID: 132 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:10Time taken:00:00:10
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:19health player 2:0turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:11Time taken:00:00:11
+
+parallel ID: 88 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:11Time taken:00:00:11
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:16turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:12Time taken:00:00:12
+
+parallel ID: 32 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:12Time taken:00:00:12
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:18health player 2:0turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:12Time taken:00:00:12
+
+parallel ID: 103 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:12Time taken:00:00:12
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:21health player 2:0turns:15
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:13Time taken:00:00:13
+
+parallel ID: 50 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:13Time taken:00:00:13
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:16turns:10
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+
+parallel ID: 15 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:11turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+
+parallel ID: 118 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:21turns:12
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:24health player 2:0turns:13
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+
+
+parallel ID: 160 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+parallel ID: 38 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:19turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:15Time taken:00:00:15
+
+parallel ID: 9 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:15Time taken:00:00:15
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:26health player 2:0turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+
+parallel ID: 119 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:19turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+
+parallel ID: 151 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:22health player 2:0turns:13
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-3health player 2:7turns:16
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:15Time taken:00:00:15
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+
+
+parallel ID: 64 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:15Time taken:00:00:15
+parallel ID: 107 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:12health player 2:0turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:15Time taken:00:00:15
+
+parallel ID: 96 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:15Time taken:00:00:15
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:14turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+
+parallel ID: 133 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:14Time taken:00:00:14
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:14turns:10
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:16Time taken:00:00:16
+
+parallel ID: 68 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:16Time taken:00:00:16
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:18turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:15Time taken:00:00:15
+
+parallel ID: 171 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:15Time taken:00:00:15
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:23health player 2:-1turns:11
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:10turns:12
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:16Time taken:00:00:16
+
+
+parallel ID: 4 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+parallel ID: 101 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:16Time taken:00:00:16
+
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:22health player 2:-4turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:16Time taken:00:00:16
+
+parallel ID: 140 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:16Time taken:00:00:16
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:15turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:17Time taken:00:00:17
+
+parallel ID: 40 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:17Time taken:00:00:17
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:28health player 2:-1turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:17Time taken:00:00:17
+
+parallel ID: 178 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:17Time taken:00:00:17
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:21health player 2:-1turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:17Time taken:00:00:17
+
+parallel ID: 66 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:17Time taken:00:00:17
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:14health player 2:0turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+
+parallel ID: 37 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:13turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:17Time taken:00:00:17
+
+parallel ID: 99 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:17Time taken:00:00:17
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:12turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+
+parallel ID: 47 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:3turns:21
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+
+parallel ID: 33 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:23health player 2:-2turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:17Time taken:00:00:17
+
+parallel ID: 143 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:17Time taken:00:00:17
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:12health player 2:-1turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:19Time taken:00:00:19
+
+parallel ID: 1 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:19Time taken:00:00:19
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:13turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+
+parallel ID: 100 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:15health player 2:-1turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:17Time taken:00:00:17
+
+parallel ID: 155 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:17Time taken:00:00:17
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:11turns:18
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+
+parallel ID: 92 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-4health player 2:20turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+
+parallel ID: 169 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:9turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:19Time taken:00:00:19
+
+parallel ID: 30 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:19Time taken:00:00:19
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:20turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:19Time taken:00:00:19
+
+parallel ID: 45 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:19Time taken:00:00:19
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:13turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+
+parallel ID: 174 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:18Time taken:00:00:18
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:18health player 2:-1turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:20Time taken:00:00:20
+
+parallel ID: 8 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:20Time taken:00:00:20
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:4turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:19Time taken:00:00:19
+
+parallel ID: 22 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:19Time taken:00:00:19
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:20health player 2:-2turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:19Time taken:00:00:19
+
+parallel ID: 114 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:19Time taken:00:00:19
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:17turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:20Time taken:00:00:20
+
+parallel ID: 51 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:20Time taken:00:00:20
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:23health player 2:0turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:20Time taken:00:00:20
+
+parallel ID: 91 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:20Time taken:00:00:20
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-3health player 2:16turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:20Time taken:00:00:20
+
+parallel ID: 87 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:20Time taken:00:00:20
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:21health player 2:0turns:9
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:19Time taken:00:00:19
+
+parallel ID: 165 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:19Time taken:00:00:19
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:15health player 2:-1turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:20Time taken:00:00:20
+
+parallel ID: 105 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:20Time taken:00:00:20
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:20health player 2:-1turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:20Time taken:00:00:20
+
+parallel ID: 93 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:20Time taken:00:00:20
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:5turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:20Time taken:00:00:20
+
+parallel ID: 41 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:20Time taken:00:00:20
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:20health player 2:-3turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:21Time taken:00:00:21
+
+parallel ID: 72 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:21Time taken:00:00:21
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-3health player 2:1turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:21Time taken:00:00:21
+
+parallel ID: 52 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:21Time taken:00:00:21
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:18health player 2:-2turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:21Time taken:00:00:21
+
+parallel ID: 159 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:21Time taken:00:00:21
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:19turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:21Time taken:00:00:21
+
+parallel ID: 94 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:21Time taken:00:00:21
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:18health player 2:0turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:22Time taken:00:00:22
+
+parallel ID: 25 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:22Time taken:00:00:22
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:22turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:21Time taken:00:00:21
+
+parallel ID: 108 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:21Time taken:00:00:21
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:9turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:22Time taken:00:00:22
+
+parallel ID: 75 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:22Time taken:00:00:22
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:28health player 2:-2turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:22Time taken:00:00:22
+
+parallel ID: 27 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:22Time taken:00:00:22
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:8turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:22Time taken:00:00:22
+
+parallel ID: 144 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:22Time taken:00:00:22
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:14turns:17
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:23Time taken:00:00:23
+
+parallel ID: 78 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:23Time taken:00:00:23
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:24health player 2:-1turns:15
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:23Time taken:00:00:23
+
+parallel ID: 35 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:23Time taken:00:00:23
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:17turns:18
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:23Time taken:00:00:23
+
+parallel ID: 34 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:23Time taken:00:00:23
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:12turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:23Time taken:00:00:23
+
+parallel ID: 175 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:23Time taken:00:00:23
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:18health player 2:-2turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:24Time taken:00:00:24
+
+parallel ID: 89 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:24Time taken:00:00:24
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:10turns:18
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:24Time taken:00:00:24
+
+parallel ID: 106 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:24Time taken:00:00:24
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:25health player 2:-2turns:15
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-4health player 2:8turns:16
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:23Time taken:00:00:23
+
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:24Time taken:00:00:24
+parallel ID: 153 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:23Time taken:00:00:23
+
+
+parallel ID: 156 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:24Time taken:00:00:24
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:20health player 2:-3turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:24Time taken:00:00:24
+
+parallel ID: 128 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:24Time taken:00:00:24
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-3health player 2:4turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:25Time taken:00:00:25
+
+parallel ID: 56 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:25Time taken:00:00:25
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:20health player 2:-1turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:25Time taken:00:00:25
+
+parallel ID: 23 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:25Time taken:00:00:25
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:21health player 2:-1turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:25Time taken:00:00:26
+
+parallel ID: 63 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:25Time taken:00:00:26
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:6turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:26Time taken:00:00:26
+
+parallel ID: 39 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:26Time taken:00:00:26
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:17health player 2:-1turns:15
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:5turns:14
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:26Time taken:00:00:26
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:25Time taken:00:00:25
+
+
+parallel ID: 71 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:26Time taken:00:00:26
+parallel ID: 141 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:25Time taken:00:00:25
+
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:10turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:25Time taken:00:00:25
+
+parallel ID: 148 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:25Time taken:00:00:25
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:4turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:25Time taken:00:00:25
+
+parallel ID: 179 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:25Time taken:00:00:25
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:2turns:19
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:27Time taken:00:00:27
+
+parallel ID: 73 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:27Time taken:00:00:27
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:17health player 2:0turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:27Time taken:00:00:27
+
+parallel ID: 61 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:27Time taken:00:00:27
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:18health player 2:0turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:28Time taken:00:00:28
+
+parallel ID: 26 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:28Time taken:00:00:28
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-3health player 2:3turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:28Time taken:00:00:28
+
+parallel ID: 137 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:28Time taken:00:00:28
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:14health player 2:-3turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:28Time taken:00:00:28
+
+parallel ID: 19 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:28Time taken:00:00:28
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:1turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:29Time taken:00:00:29
+
+parallel ID: 14 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:29Time taken:00:00:29
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:7turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:28Time taken:00:00:28
+
+parallel ID: 138 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:28Time taken:00:00:28
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:19health player 2:-2turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:29Time taken:00:00:29
+
+parallel ID: 74 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:29Time taken:00:00:29
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:11turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:29Time taken:00:00:29
+
+parallel ID: 81 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:29Time taken:00:00:29
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:28health player 2:0turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:30Time taken:00:00:30
+
+parallel ID: 84 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:30Time taken:00:00:30
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:24turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:29Time taken:00:00:29
+
+parallel ID: 152 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:29Time taken:00:00:29
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:12turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:30Time taken:00:00:30
+
+parallel ID: 80 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:30Time taken:00:00:30
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:28health player 2:0turns:9
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:29Time taken:00:00:29
+
+parallel ID: 116 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:29Time taken:00:00:29
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:21health player 2:0turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:30Time taken:00:00:30
+
+parallel ID: 48 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:30Time taken:00:00:30
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:16turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:30Time taken:00:00:30
+
+parallel ID: 135 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:30Time taken:00:00:30
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:13turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:31Time taken:00:00:31
+
+parallel ID: 83 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:31Time taken:00:00:31
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-4health player 2:14turns:18
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:30Time taken:00:00:30
+
+parallel ID: 145 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:30Time taken:00:00:30
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:24health player 2:0turns:9
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:30Time taken:00:00:30
+
+parallel ID: 147 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:30Time taken:00:00:30
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:7turns:20
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:31Time taken:00:00:31
+
+parallel ID: 82 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:31Time taken:00:00:31
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:12health player 2:0turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:32Time taken:00:00:32
+
+parallel ID: 110 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:32Time taken:00:00:32
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:23health player 2:-2turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:32Time taken:00:00:32
+
+parallel ID: 149 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:32Time taken:00:00:32
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:4turns:19
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:33Time taken:00:00:33
+
+parallel ID: 13 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:33Time taken:00:00:33
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:9turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:33Time taken:00:00:33
+
+parallel ID: 77 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:33Time taken:00:00:33
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:4turns:19
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:34Time taken:00:00:34
+
+parallel ID: 12 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:34Time taken:00:00:34
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:16turns:18
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:33Time taken:00:00:33
+
+parallel ID: 42 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:33Time taken:00:00:33
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:10turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:33Time taken:00:00:33
+
+parallel ID: 43 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:33Time taken:00:00:33
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:9turns:18
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:34Time taken:00:00:34
+
+parallel ID: 18 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:34Time taken:00:00:34
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:27health player 2:0turns:9
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:33Time taken:00:00:33
+
+parallel ID: 125 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:33Time taken:00:00:33
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:20health player 2:0turns:9
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:5turns:16
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:33Time taken:00:00:33
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:34Time taken:00:00:34
+
+
+parallel ID: 172 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:33Time taken:00:00:33
+parallel ID: 53 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:34Time taken:00:00:34
+
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:6turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:34Time taken:00:00:34
+
+parallel ID: 109 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:34Time taken:00:00:34
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:11turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:35Time taken:00:00:35
+
+parallel ID: 62 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:35Time taken:00:00:35
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:22health player 2:-7turns:15
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:13turns:18
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:35Time taken:00:00:35
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:35Time taken:00:00:35
+
+
+parallel ID: 69 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:35Time taken:00:00:35
+parallel ID: 112 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:35Time taken:00:00:35
+
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:6turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:36Time taken:00:00:36
+
+parallel ID: 46 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:36Time taken:00:00:36
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:9turns:13
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:37Time taken:00:00:37
+
+parallel ID: 17 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:37Time taken:00:00:37
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:5turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:36Time taken:00:00:36
+
+parallel ID: 139 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:36Time taken:00:00:36
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:6health player 2:-1turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:37Time taken:00:00:37
+
+parallel ID: 59 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:37Time taken:00:00:37
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:16health player 2:0turns:15
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:36Time taken:00:00:36
+
+parallel ID: 117 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:36Time taken:00:00:36
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:10turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:36Time taken:00:00:36
+
+parallel ID: 146 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:36Time taken:00:00:36
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:15health player 2:0turns:17
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:38Time taken:00:00:38
+
+parallel ID: 121 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:38Time taken:00:00:38
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:6turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:38Time taken:00:00:38
+
+parallel ID: 24 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:38Time taken:00:00:38
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:23health player 2:-2turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:38Time taken:00:00:38
+
+parallel ID: 111 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:38Time taken:00:00:38
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:9turns:16
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:5turns:16
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:2turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:39Time taken:00:00:39
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:39Time taken:00:00:39
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:38Time taken:00:00:38
+
+
+
+parallel ID: 130 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:39Time taken:00:00:39
+parallel ID: 98 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:39Time taken:00:00:39
+parallel ID: 170 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:38Time taken:00:00:38
+
+
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:2turns:18
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:39Time taken:00:00:39
+
+parallel ID: 113 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:39Time taken:00:00:39
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:9turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:40Time taken:00:00:40
+
+parallel ID: 16 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:40Time taken:00:00:40
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:8turns:18
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:39Time taken:00:00:39
+
+parallel ID: 168 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:39Time taken:00:00:39
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:19health player 2:0turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:40Time taken:00:00:40
+
+parallel ID: 49 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:40Time taken:00:00:40
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:1turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:39Time taken:00:00:39
+
+parallel ID: 158 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:39Time taken:00:00:39
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:16health player 2:-3turns:15
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:40Time taken:00:00:40
+
+parallel ID: 129 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:40Time taken:00:00:40
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:13turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:40Time taken:00:00:40
+
+parallel ID: 104 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:40Time taken:00:00:40
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:6health player 2:0turns:19
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:42Time taken:00:00:42
+
+parallel ID: 10 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:42Time taken:00:00:42
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:7turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:40Time taken:00:00:40
+
+parallel ID: 131 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:40Time taken:00:00:40
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:7turns:18
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:41Time taken:00:00:41
+
+parallel ID: 126 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:41Time taken:00:00:41
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:7turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:41Time taken:00:00:41
+
+parallel ID: 36 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:41Time taken:00:00:41
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:9turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:43Time taken:00:00:43
+
+parallel ID: 11 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:43Time taken:00:00:43
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:11turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:41Time taken:00:00:41
+
+parallel ID: 142 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:41Time taken:00:00:41
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:18turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:42Time taken:00:00:42
+
+parallel ID: 122 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:42Time taken:00:00:42
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:8health player 2:0turns:13
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:2turns:16
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:44Time taken:00:00:44
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:45Time taken:00:00:45
+
+
+parallel ID: 173 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:44Time taken:00:00:44
+parallel ID: 3 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:45Time taken:00:00:45
+
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:4turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:45Time taken:00:00:45
+
+parallel ID: 70 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:45Time taken:00:00:45
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:14health player 2:-3turns:15
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:46Time taken:00:00:46
+
+parallel ID: 79 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:46Time taken:00:00:46
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:14turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:46Time taken:00:00:46
+
+parallel ID: 44 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:46Time taken:00:00:46
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:13health player 2:0turns:15
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:48Time taken:00:00:48
+
+parallel ID: 0 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:48Time taken:00:00:48
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:18health player 2:-2turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:48Time taken:00:00:48
+
+parallel ID: 28 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:48Time taken:00:00:48
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:3turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:48Time taken:00:00:48
+
+parallel ID: 65 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:48Time taken:00:00:48
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:13health player 2:-1turns:15
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:47Time taken:00:00:47
+
+parallel ID: 162 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:47Time taken:00:00:47
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:14turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:49Time taken:00:00:49
+
+parallel ID: 164 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:49Time taken:00:00:49
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:23health player 2:-1turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:50Time taken:00:00:50
+
+parallel ID: 124 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:50Time taken:00:00:50
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:22health player 2:-1turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:52Time taken:00:00:52
+
+parallel ID: 60 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:52Time taken:00:00:52
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:20health player 2:0turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:52Time taken:00:00:52
+
+parallel ID: 86 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:52Time taken:00:00:52
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:9turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:52Time taken:00:00:52
+
+parallel ID: 166 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:52Time taken:00:00:52
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:10turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:53Time taken:00:00:53
+
+parallel ID: 95 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:53Time taken:00:00:53
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:13health player 2:0turns:15
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:53Time taken:00:00:53
+
+parallel ID: 176 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:53Time taken:00:00:53
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:9turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:54Time taken:00:00:54
+
+parallel ID: 167 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:54Time taken:00:00:54
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:11turns:18
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:55Time taken:00:00:55
+
+parallel ID: 136 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:55Time taken:00:00:55
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:14health player 2:0turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:57Time taken:00:00:57
+
+parallel ID: 123 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:57Time taken:00:00:57
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:4turns:20
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:57Time taken:00:00:57
+
+parallel ID: 102 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:57Time taken:00:00:57
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:6health player 2:-5turns:15
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:57Time taken:00:00:57
+
+parallel ID: 177 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:57Time taken:00:00:57
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:22health player 2:-1turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:58Time taken:00:00:58
+
+parallel ID: 57 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:00:58Time taken:00:00:58
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:6turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:01Time taken:00:01:01
+
+parallel ID: 115 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:01Time taken:00:01:01
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:16health player 2:-6turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:01:01Time taken:00:01:01
+
+parallel ID: 154 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:01:01Time taken:00:01:01
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:12turns:14
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:12Time taken:00:01:12
+
+parallel ID: 7 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:12Time taken:00:01:12
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:5turns:16
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:11Time taken:00:01:11
+
+parallel ID: 150 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:11Time taken:00:01:11
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:21health player 2:-1turns:11
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:01:12Time taken:00:01:12
+
+parallel ID: 127 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:01:12Time taken:00:01:12
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:13turns:20
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:13Time taken:00:01:13
+
+parallel ID: 134 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:13Time taken:00:01:13
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:5turns:20
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:16Time taken:00:01:16
+
+parallel ID: 21 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:16Time taken:00:01:16
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-4health player 2:8turns:21
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:22Time taken:00:01:22
+
+parallel ID: 20 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:22Time taken:00:01:22
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:2health player 2:-4turns:15
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:01:23Time taken:00:01:23
+
+parallel ID: 54 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:01:23Time taken:00:01:23
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:2health player 2:-4turns:15
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:01:24Time taken:00:01:24
+
+parallel ID: 58 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:01:24Time taken:00:01:24
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:5turns:12
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:36Time taken:00:01:36
+
+parallel ID: 6 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:36Time taken:00:01:36
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:17health player 2:-1turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:01:42Time taken:00:01:42
+
+parallel ID: 2 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:01:42Time taken:00:01:42
+
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:1turns:21
+Game 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:42Time taken:00:01:42
+
+parallel ID: 76 Game ID: 0 : Game 0: Win rate =0% and average time of each round (hh:mm:ss) = 00:01:42Time taken:00:01:42
+
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:25health player 2:-2turns:13
+Game 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:01:51Time taken:00:01:51
+
+parallel ID: 97 Game ID: 0 : Game 0: Win rate =100% and average time of each round (hh:mm:ss) = 00:01:51Time taken:00:01:51
+
