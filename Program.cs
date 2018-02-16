@@ -77,9 +77,9 @@ namespace Sabbertest2
 
             int GPUID = int.Parse(args[0]);//1;//
 
-            string folderName = args[1].ToString();//"2d7d2018-11-26-56-AM";//
-            int numGames = int.Parse(args[2]);// 200;// 
-            int deckIncrement = int.Parse(args[3]);
+            string folderName = "folderwith decks";// args[1].ToString();//"2d7d2018-11-26-56-AM";//
+            int numGames = 200;// int.Parse(args[2]);// 200;// 
+            int deckIncrement = 1;// int.Parse(args[3]);
             int deckID = GPUID / numGames;
             int remainder = GPUID % numGames;
             // int numGames = 0;
